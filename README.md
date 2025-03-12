@@ -1,7 +1,7 @@
 # VS Codium Profiles
 A collection of (opinionated) VS Codium profiles for various development environments.
 
-Unfortunately `.code-profile` files don't self-reference themselves; this means that, when updating a profile that is being extended, the update will propagate to all profiles that extend it resulting in a kinda redundant version control. Unfortunately can't do much about it without making some over-engineered stuff that doesn't need to exist.
+Unfortunately `.code-profile` files don't self-reference themselves; this means that, when updating a profile that is being extended, the update will propagate to all profiles that extend it resulting in a kinda redundant version control. Can't do much about it without making some over-engineered stuff that doesn't need to exist.
 
 ## Profiles
 Currently, there aren't many profiles, this list will grow as I have to work with various environments. Anyway, these are the respective profile scopes
