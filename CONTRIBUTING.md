@@ -1,4 +1,4 @@
-# Contributing
+# Contributing Guidelines
 If, for whatever reason, you are using my VS Codium profiles... thank you first of all, I guess...?
 
 ## Something doesn't work
